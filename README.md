@@ -1,7 +1,3 @@
-Here’s an example README file for your GFAstore e-commerce project:  
-
----
-
 # GFAstore E-Commerce Website  
 
 A fully functional e-commerce platform designed and developed to enhance the online shopping experience. Built with modern technologies to ensure responsiveness, scalability, and seamless performance.  
