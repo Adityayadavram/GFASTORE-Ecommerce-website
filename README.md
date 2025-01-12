@@ -48,7 +48,14 @@ A fully functional e-commerce platform designed and developed to enhance the onl
 6. Access the application at `http://127.0.0.1:8000`.  
 
 ## Screenshots  
-(Add screenshots of the website for better understanding, such as home page, product page, cart, etc.)  
+![Screenshot (79)](https://github.com/user-attachments/assets/15329fe6-30d2-4c7d-a9ee-a85dbda05662)
+![Screenshot (80)](https://github.com/user-attachments/assets/86363a53-10cf-4108-a283-eb84738b46d5)
+![Screenshot (81)](https://github.com/user-attachments/assets/25f6e123-4c8c-419d-a8c3-477ef7b4284b)
+![Screenshot (82)](https://github.com/user-attachments/assets/46528d1a-1e43-47f4-a0b5-71ded9f0504e)
+![Screenshot (83)](https://github.com/user-attachments/assets/18c30482-1182-4666-87f1-1083156edaeb)
+![Screenshot (84)](https://github.com/user-attachments/assets/953ed674-7bb2-4258-98c7-59b2d720393f)
+![Screenshot (85)](https://github.com/user-attachments/assets/b92eeabf-a751-4971-87b2-07df13402c59)
+
 
 ## Future Enhancements  
 - Integration of payment gateways.  
